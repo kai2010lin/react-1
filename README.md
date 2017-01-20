@@ -30,4 +30,16 @@ git clone https://github.com/qxqxqxa/react.git
 
 cd react
 
-npm start
+delete <node_modules> folder
+
+run a few commands
+
+(1)npm install
+
+(2)npm install react-input-calendar
+
+ moment rc-time-picker
+
+ axios moment-range
+
+(3)npm start
