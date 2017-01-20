@@ -36,10 +36,6 @@ run a few commands
 
 (1)npm install
 
-(2)npm install react-input-calendar
-
- moment rc-time-picker
-
- axios moment-range
+(2)npm install react-input-calendar moment rc-time-picker axios moment-range
 
 (3)npm start
